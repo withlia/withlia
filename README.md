@@ -43,7 +43,7 @@
 ## 📊 My Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=withlia&layout=donut&theme=default&hide_border=true&langs_count=8&card_width=450&title_color=2f81f7&text_color=333&bg_color=ffffff" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-lime-seven-71.vercel.app/api/top-langs/?username=withlia&layout=donut&hide_border=true&langs_count=8&card_width=450" alt="Most Used Languages" />
 </div>
 
 > 数据基于我 GitHub 上公开仓库的代码统计，按语言字节数占比排序 📈
@@ -53,7 +53,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=withlia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-lime-seven-71.vercel.app/api?username=withlia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=withlia&theme=tokyonight&hide_border=true" />
 
 </div>
