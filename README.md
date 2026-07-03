@@ -43,7 +43,7 @@
 ## 📊 My Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats-lime-seven-71.vercel.app/api/top-langs/?username=withlia&layout=donut&hide_border=true&langs_count=8&card_width=450" alt="Most Used Languages" />
+  <img height="200" src="https://github-readme-stats-lime-seven-71.vercel.app/api/top-langs/?username=withlia&layout=donut&hide_border=true&langs_count=6&card_width=340" alt="Most Used Languages" />
 </div>
 
 > 数据基于我 GitHub 上公开仓库的代码统计，按语言字节数占比排序 📈
