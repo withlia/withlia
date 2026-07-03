@@ -19,74 +19,50 @@
 
 ## 🧑‍💻 About Me
 
-```typescript
-const withlia = {
-  role:       "Sophomore CS Student 🎓",
-  location:   "China 🇨🇳",
-  languages:  ["Java", "Go", "TypeScript", "JavaScript"],
-  frontend:   ["HTML", "CSS", "Vue"],
-  learning:   ["Distributed Systems", "Cloud Native"],
-  hobbies:    ["Coding", "Open Source", "Learning New Tech"],
-  motto:      "Stay hungry, stay foolish."
-};
-```
+- 🎓 我是一名 **大二在读** 的计算机学生
+- 🔭 目前正在学习 **后端开发** 和 **云原生**
+- 🌱 深耕方向：`Java` `Go` `Vue`
+- 💡 喜欢折腾新技术，享受把想法变成代码的过程
+- 📫 联系我：**1286958193@qq.com**
+- ⚡ 一句话：**"种一棵树最好的时间是十年前，其次是现在"**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack
 
 <div align="center">
-
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,go,ts,js,html,css" />
-
-### Frameworks & Tools
-
-<img src="https://skillicons.dev/icons?i=vue,nodejs,spring,git,github,vscode,idea,linux" />
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,go,spring,mysql,redis,docker,linux&perline=8" alt="backend stack" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nodejs,git,github&perline=8" alt="frontend stack" />
+  </a>
 </div>
 
+
+> 🚀 **后端**：Java · Go · Spring · MySQL · Redis · Docker · Linux  
+> 🎨 **前端**：HTML · CSS · JavaScript · TypeScript · Vue · Node.js · Git · GitHub
+
 ---
 
-## 📊 GitHub Stats
+## 📊 My Most Used Languages
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=withlia&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Most Used Languages" />
+</div>
 
 
+> 数据基于我 GitHub 上公开仓库的代码统计，按语言字节数占比排序 📈
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=withlia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=withlia&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=withlia&theme=tokyonight&hide_border=true" />
+
 
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=withlia&theme=tokyonight&hide_border=true" alt="streak stats" />
-</div>
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=withlia&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=withlia&theme=tokyonight&no-frame=true&column=7&margin-w=15" />
-</div>
-
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/withlia/withlia/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
-</div>
-
 
 ---
 
@@ -96,8 +72,8 @@ const withlia = {
   <a href="https://github.com/withlia">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:1286958193@qq.com">
+    <img src="https://img.shields.io/badge/QQ_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
